@@ -1,6 +1,6 @@
 <?php  
 
-$folder_name = "social-network";
+$folder_name = "php-social-network";
 $base_url = "http://localhost/{$folder_name}/";
 
 $urls = [
