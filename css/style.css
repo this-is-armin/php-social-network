@@ -1,0 +1,53 @@
+.content {
+    width: 70%;
+    margin-left: 14%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: -5px 5px 7px rgb(214, 122, 9);
+    background-color: bisque;
+}
+
+.message {
+    width: 70%;
+    margin-left: 14%;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+header {
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: -5px 5px 7px rgb(214, 122, 9);
+    background-color: bisque;
+}
+header a {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.2rem;
+    transition: 0.2s;
+    color: darkorange;
+}
+header a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.task-finished-text {
+    text-decoration: line-through;
+}
+
+form input, textarea {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#profile-buttons a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
