@@ -4,4 +4,4 @@
 ### See `config.php` in `core` folder.
 
 ## Setup Database
-### In phpMyAdmin, go to the `import` tab and select this `database.sql` file.
+### In phpMyAdmin, go to the `import` tab and select the `database.sql` file in the `core` folder.
